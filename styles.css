@@ -1,0 +1,39 @@
+.template-flex-article.post-edit-mode .container {
+  background: #333332 !important;
+}
+
+.post-article .metabar.active {
+  background-color: #333332;
+}
+
+.post-article .post-page-wrapper {
+  background: #333332;
+}
+
+.template-flex-article .post-content {
+  color: #ccc !important;
+}
+
+.site-nav .site-nav-logo {
+  background: #222;
+}
+
+.btn-toolbar {
+  background: #222;
+}
+
+.toolbar-linkinput {
+  background: #222 !important;
+}
+
+.toolbar .toolbar-h2::after {
+  border-color: transparent #222 transparent transparent !important;
+}
+
+.toolbar .toolbar-h3::after {
+  border-color: #222 transparent transparent transparent !important;
+}
+
+.toolbar-linkinput input {
+  -webkit-font-smoothing: antialiased !important;
+}

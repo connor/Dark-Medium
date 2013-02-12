@@ -1,0 +1,20 @@
+{
+	"name": "Dark Medium Composer"
+	, "version": "1.0"
+  , "description": "Give your domains a happy ending."
+  , "content_scripts": [
+      {
+          "css": [ "styles.css" ]
+        , 
+          "matches": [  "https://medium.com/*/*/edit"
+                    , "https://medium.com/*/*/edit/"
+                    , "https://medium.com/*/edit"
+                    , "https://medium.com/*/edit/"
+                    , "https://medium.com/*/new-post"
+                    , "https://medium.com/*/new-post/"
+                   ]
+        , "run_at": "document_end"
+      }
+    ]
+  , "manifest_version": 2
+}
