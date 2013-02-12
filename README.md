@@ -13,3 +13,13 @@ editor). This does that.
 ## After
 
 ![](http://f.cl.ly/items/0K1x462u3W1E0r1d3r2w/Screen%20Shot%202013-02-12%20at%202.14.38%20AM.png)
+
+## FYI...
+
+I wrote this in about 10 minutes, and the code quality shows. It's very
+much binded to the DOM and Medium's markup, and which may change at any
+time. Use at your own risk.
+
+Overflowing buckets of <3 and high fives,
+
+[@connor](http://twitter.com/connor)
